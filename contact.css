@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://wallpapercave.com/dwp2x/wp6944248.jpg");
+    background-size: cover;
+    color: aliceblue;
+}
+.headcontact{
+    font-family: 'Headland One', serif;
+font-family: 'Kaushan Script', cursive;
+}
+.card{
+    background: transparent;
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+}
+.para{
+    font-family: 'Fuggles', cursive;
+}
